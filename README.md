@@ -51,7 +51,7 @@ Select the **preferred regional language** for the session
 
 Create a **child profile** to enable **personalized therapy tracking** and **progress analytics**
 
-Start the session by choosing the required **game or therapy module**
+Start the session by choosing the required **game or Therapy module**
     
 
 ![Therafun_Logo](https://github.com/user-attachments/assets/b77ee428-a50a-443a-8bd5-0de56588ee01)
