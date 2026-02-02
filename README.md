@@ -28,9 +28,9 @@ https://github.com/user-attachments/assets/1a2159f6-5bb3-4091-a216-e7691e2f0937
 https://github.com/user-attachments/assets/1d326a0a-65c4-4e3d-8ed6-37e576556280
 
 https://github.com/user-attachments/assets/93ec08ab-0ea8-4bc6-8eee-894284edbf37
-## Documentation
+## Documentation-TheraFun Patent
 
-[Therafun_Patent](https://github.com/user-attachments/files/25012199/Therafun.Patent_Ramya.pdf)
+[Therafun_Patent](https://github.com/user-attachments/assets/82bb55fd-b80f-4e7a-b90c-515b11c48b54)
 
 
 ## Installation
