@@ -19,8 +19,17 @@
 
 ## The Problem
 
-> **62 million children worldwide** are affected by Autism Spectrum Disorder (ASD).
-> In India, **1 in every 100 children** is diagnosed with autism *(Centre for Disease Control)*.
+Autism Spectrum Disorder (ASD) is one of the fastest-growing neurodevelopmental challenges of our time — and the numbers demand urgent action.
+
+| Source | Statistic |
+|--------|-----------|
+| World Health Organization (WHO) | 1 in 100 children worldwide lives with ASD |
+| Centers for Disease Control (CDC) | Over **62 million children** globally are affected |
+| CDC — India Specific | **1 in 100 children** in India is diagnosed with autism |
+
+> *These are not just statistics. Behind every number is a child who deserves better.*
+
+Despite the scale of this crisis, the global therapy landscape remains largely unchanged — sessions are repetitive, passive, and offer little engagement for the child. There is **no widely accessible, technology-driven solution** that makes therapy both effective and enjoyable.
 
 Children with autism face significant challenges in:
 
@@ -28,6 +37,8 @@ Children with autism face significant challenges in:
 - Focus and concentration
 - Fine motor skills
 - Response to commands and communication
+
+Parents search for better tools. Therapists look for measurable outcomes. Children need something that speaks their language — **play**.
 
 Traditional therapy sessions are often repetitive, disengaging, and ineffective — with no tech-driven solution at scale. **Until now.**
 
