@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/b77ee428-a50a-443a-8bd5-0de56588ee01" alt="TheraFun Logo" width="200"/>
 
-# THERAFUN
+# THERAFUN = Therapy + Fun
 
 ### *Turning Therapy into Play — One Jump at a Time*
 
