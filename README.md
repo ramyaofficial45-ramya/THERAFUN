@@ -133,17 +133,13 @@ B2B Model
 
 ## Demo
 
-**Level 1 — Jump Module**
+[[https://drive.google.com/file/d/1iWNzhIMBsQiY9wQ0Td8twW_1exssOtHW/view?usp=drive_link]](https://drive.google.com/file/d/1iWNzhIMBsQiY9wQ0Td8twW_1exssOtHW/view?usp=drive_link)
 
-https://github.com/user-attachments/assets/1a2159f6-5bb3-4091-a216-e7691e2f0937
+---
 
-**Level 2 — Press & Color Logic**
+## Implementation
 
-https://github.com/user-attachments/assets/1d326a0a-65c4-4e3d-8ed6-37e576556280
-
-**Level 3 — Nutritional Awareness**
-
-https://github.com/user-attachments/assets/93ec08ab-0ea8-4bc6-8eee-894284edbf37
+[https://github.com/user-attachments/assets/1d326a0a-65c4-4e3d-8ed6-37e576556280](https://drive.google.com/file/d/1MW24TgIMpNQ2Dhu9KNVGBdDjoTttsbo1/view?usp=drive_link)
 
 ---
 
