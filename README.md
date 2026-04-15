@@ -1,63 +1,185 @@
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/b77ee428-a50a-443a-8bd5-0de56588ee01" alt="TheraFun Logo" width="200"/>
+
 # THERAFUN
 
-With over 62 million children affected by autism worldwide, there is a critical need for engaging, non-wearable, gamified therapy solutions to enhance physical and cognitive development.
+### *Turning Therapy into Play — One Jump at a Time*
+
+> **World's First Non-Wearable Gamified Therapy Device for Children with Autism**
+
+[![Patent](https://img.shields.io/badge/Status-Patented-blue?style=for-the-badge)](#)
+[![Tested](https://img.shields.io/badge/Clinically-Tested-green?style=for-the-badge)](#)
+[![Impact](https://img.shields.io/badge/SROI-2.59x-orange?style=for-the-badge)](#)
+[![Language](https://img.shields.io/badge/Regional-Language%20Support-purple?style=for-the-badge)](#)
+
+</div>
 
 ---
+
+## The Problem
+
+> **62 million children worldwide** are affected by Autism Spectrum Disorder (ASD).
+> In India, **1 in every 100 children** is diagnosed with autism *(Centre for Disease Control)*.
+
+Children with autism face significant challenges in:
+
+- Physical activity and movement
+- Focus and concentration
+- Fine motor skills
+- Response to commands and communication
+
+Traditional therapy sessions are often repetitive, disengaging, and ineffective — with no tech-driven solution at scale. **Until now.**
+
+---
+
+## What is TheraFun?
+
+**TheraFun** is a smart, gamified, non-wearable therapy device that transforms conventional therapy into an interactive play experience — designed specifically for children on the autism spectrum.
+
+> *It's not AR. It's not VR. It's TheraFun — and it's in a class of its own.*
+
+### How it Works
+
+| Action | What the Child Does | What the Game Does |
+|--------|--------------------|--------------------|
+| Jump | Child physically jumps on the smart mat | Game character jumps in real-time |
+| Press | Child presses the colored ball | Ball character moves based on color logic |
+| Choose | Child selects nutritional food items | Score increases, junk food is avoided |
+| Solve | Child completes spatial memory tasks | Cognitive skills tracked and improved |
+
+---
+
 ## Features
 
-* **Non-Wearable Gamified Therapy** – Motion-based interactive play without wearables or headsets
-* **Physical & Cognitive Development** – Improves activity, focus, coordination, and response
-* **Real-World Movement Mapping** – Jump, press, and step actions reflected in gameplay
-* **Fine Motor & Behavior Support** – Enhances hand control, logic, and reduces repetitive actions
-* **Self-Control & Awareness** – Encourages healthy choices through gameplay
-* **Multi-Level Skill Modules** – Spatial memory, cognition, and early communication
-* **Progress Tracking** – Reports for parents and therapists
-* **Regional Language + STEM Learning**
-* **Patented, Tested & Scalable**
+### Core Gameplay Modules
+
+```
+Level 1 — Jump & Move     : Body coordination, physical activity, response to commands
+Level 2 — Press & Think   : Fine motor skills, logical thinking, reduces hand flapping
+Level 3 — Eat Smart       : Self-control, brain coordination, nutritional awareness
+Level 4 — Remember & Speak: Spatial memory, early communication, cognitive growth
+```
+
+### Key Highlights
+
+- **Non-Wearable** — No headsets, no wearables. Just a smart interactive mat
+- **Regional Language Support** — Therapy delivered in the child's native language
+- **STEM Education** — Learning embedded naturally into gameplay
+- **Progress Tracking** — Detailed reports for parents and therapists
+- **Clinically Tested** — Validated across multiple autism centres
+- **Patented Technology** — IP-protected innovation
+- **Scalable** — Extendable to physiotherapy and occupational therapy via GonioFlux
+
 ---
 
-## Feedback
+## Social Impact
 
-![1](https://github.com/user-attachments/assets/638cc8bc-4f35-4e4a-ac62-30600a3a8a5f)
-
-![2](https://github.com/user-attachments/assets/3fd85e26-44a1-47e4-9407-b4bfe3db174d)
+| Metric | Value |
+|--------|-------|
+| Social value generated per child | Rs. 25,000 |
+| Social Return on Investment (SROI) | Rs. 2.59 for every Rs. 1 invested |
+| Children affected globally | 62 million |
+| India prevalence | 1 in 100 children |
 
 ---
+
+## Installation
+
+**Step 1** — Unbox the TheraFun Smart Gamified Device *(includes smart mat and control unit)*
+
+**Step 2** — Place the smart mat on a flat, non-slippery surface with enough room for safe movement
+
+**Step 3** — Connect the control unit to a TV or monitor via HDMI cable
+
+**Step 4** — Power on the system and ensure a stable electricity supply
+
+**Step 5** — Launch the TheraFun Application *(pre-installed or via provided package)*
+
+**Step 6** — Follow on-screen instructions to calibrate motion and pressure sensors
+
+**Step 7** — Select the preferred regional language for the session
+
+**Step 8** — Create a child profile for personalized therapy tracking and analytics
+
+**Step 9** — Start the session by choosing a game or therapy module
+
+---
+
+## Business Model
+
+```
+B2B Model
+├── Product Sale       → Rs. 2,999 margin profit per unit
+├── Basic Plan         → Entry-level subscription
+├── Standard Plan      → Mid-tier with more modules
+└── Premium Plan       → Full access + analytics + STEM content
+```
+
+**Target Expansion:** Autism Centres → Physiotherapy → Occupational Therapy → Schools
+
+---
+
 ## Demo
+
+**Level 1 — Jump Module**
 
 https://github.com/user-attachments/assets/1a2159f6-5bb3-4091-a216-e7691e2f0937
 
+**Level 2 — Press & Color Logic**
+
 https://github.com/user-attachments/assets/1d326a0a-65c4-4e3d-8ed6-37e576556280
+
+**Level 3 — Nutritional Awareness**
 
 https://github.com/user-attachments/assets/93ec08ab-0ea8-4bc6-8eee-894284edbf37
 
 ---
-## Documentation-TheraFun Patent
 
-[Therafun_Patent](https://github.com/user-attachments/assets/82bb55fd-b80f-4e7a-b90c-515b11c48b54)
+## Feedback from Therapists & Parents
+
+![Feedback 1](https://github.com/user-attachments/assets/638cc8bc-4f35-4e4a-ac62-30600a3a8a5f)
+
+![Feedback 2](https://github.com/user-attachments/assets/3fd85e26-44a1-47e4-9407-b4bfe3db174d)
+
+> *"One child showed remarkable improvement after just 7 days of using TheraFun."*
 
 ---
-## Installation
 
-Unbox the **TheraFun Smart Gamified Device**, including the **interactive smart mat and control unit**
+## Patent
 
-Place the **smart mat** on a **flat, non-slippery surface** with sufficient space for **safe movement**
+[![TheraFun Patent](https://img.shields.io/badge/View-Patent%20Document-blue?style=for-the-badge)](https://github.com/user-attachments/assets/82bb55fd-b80f-4e7a-b90c-515b11c48b54)
 
-Connect the **control unit** to a **TV or monitor** using an **HDMI cable**
-
-Power on the system and ensure a **stable electricity supply**
-
-Launch the **TheraFun application** (pre-installed or installed via the provided package)
-
-Follow the **on-screen setup instructions to calibrate motion** and **pressure sensors**
-
-Select the **preferred regional language** for the session
-
-Create a **child profile** to enable **personalized therapy tracking** and **progress analytics**
-
-Start the session by choosing the required **game or Therapy module**
-    
 ---
-## Logo
-![Therafun_Logo](https://github.com/user-attachments/assets/b77ee428-a50a-443a-8bd5-0de56588ee01)
 
+## Roadmap
+
+```
+Year 1
+├── Expand game library with new therapy modules
+├── Onboard 50+ autism centres across India
+└── Refine progress analytics dashboard
+
+Year 2
+├── Launch GonioFlux for physiotherapy & occupational therapy
+├── Expand to Southeast Asia (Malaysia, Singapore)
+└── Commercialize TheraFun at scale
+```
+
+---
+
+## Get Involved
+
+Interested in partnering, investing, or bringing TheraFun to your therapy centre?
+
+Reach out to Team Unity — let's make therapy effective, engaging, and impactful.
+
+---
+
+<div align="center">
+
+**TheraFun** — *Because every child deserves to play, grow, and thrive.*
+
+![TheraFun Logo](https://github.com/user-attachments/assets/b77ee428-a50a-443a-8bd5-0de56588ee01)
+
+</div>
